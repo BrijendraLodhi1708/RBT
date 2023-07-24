@@ -1,1 +1,3 @@
 Welcome message
+
+We will learn git today
